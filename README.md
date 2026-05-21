@@ -48,3 +48,6 @@ Inicio
 Fin
 
 <img width="300" height="168" alt="download" src="https://github.com/user-attachments/assets/1db138fd-a6df-434e-b881-5731859e3d77" />
+
+<img width="266" height="234" alt="image" src="https://github.com/user-attachments/assets/9189c625-da82-4501-9591-8f91a26ff431" />
+
