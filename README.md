@@ -19,6 +19,7 @@ Inicio
 		Segundo Método
 			Imprime independiente todos los días de la semana (String)
 		Fin Segundo Método
+<img width="121" height="811" alt="Diagrama sin título drawio (1)" src="https://github.com/user-attachments/assets/33c5a11d-db72-4bdb-b453-7995eb598716" />
 
 ///////////////////////////////////////////////////////////////////////
 	Definir métodos
@@ -29,6 +30,8 @@ Inicio
 			Se inicializa en i = 1, i <=10, i++
 			Imprime los resultados
 		Fin Tercer Método
+		<img width="145" height="691" alt="Diagrama sin título drawio (2)" src="https://github.com/user-attachments/assets/310a206f-a289-4902-8244-dba2a7bb59fc" />
+
 
 ///////////////////////////////////////////////////////////////////////
 	Definir métodos
@@ -46,6 +49,8 @@ Inicio
 			Valida el número ingresado y lo multiplica del 1 al 10
 			Imprime los resultados
 		Fin Tercer Método
+		<img width="121" height="501" alt="Diagrama sin título drawio (3)" src="https://github.com/user-attachments/assets/1d4782ec-3bfc-4970-9920-41e34a29a238" />
+
 Fin
 
 <img width="300" height="168" alt="download" src="https://github.com/user-attachments/assets/1db138fd-a6df-434e-b881-5731859e3d77" />
