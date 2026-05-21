@@ -19,6 +19,12 @@ public class ActividadMetodos{
         System.out.println("Viernes");
         System.out.println("Sabado");
         System.out.println("Domingo");
+    }
+    //Tercer Método
+    public static void Multiplicar(int numero) {
+        for (int i = 1; i <= 10; i++){
+            System.out.println(numero + " x " + i + " = " + (numero * i));
+        }
 
     }
 }
