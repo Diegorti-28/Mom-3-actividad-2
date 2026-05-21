@@ -30,7 +30,7 @@ Inicio
 			Se inicializa en i = 1, i <=10, i++
 			Imprime los resultados
 		Fin Tercer Método
-		<img width="145" height="691" alt="Diagrama sin título drawio (2)" src="https://github.com/user-attachments/assets/310a206f-a289-4902-8244-dba2a7bb59fc" />
+<img width="145" height="691" alt="Diagrama sin título drawio (2)" src="https://github.com/user-attachments/assets/310a206f-a289-4902-8244-dba2a7bb59fc" />
 
 
 ///////////////////////////////////////////////////////////////////////
@@ -49,7 +49,7 @@ Inicio
 			Valida el número ingresado y lo multiplica del 1 al 10
 			Imprime los resultados
 		Fin Tercer Método
-		<img width="121" height="501" alt="Diagrama sin título drawio (3)" src="https://github.com/user-attachments/assets/1d4782ec-3bfc-4970-9920-41e34a29a238" />
+<img width="121" height="501" alt="Diagrama sin título drawio (3)" src="https://github.com/user-attachments/assets/1d4782ec-3bfc-4970-9920-41e34a29a238" />
 
 Fin
 
