@@ -11,6 +11,7 @@ Inicio
 			Recibe el mensaje de parte del usuario (String)
 			Consola imprime el mensaje del usuario
 		Fin Primer Método
+<img width="121" height="401" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/0c52986e-c179-4185-95b1-7224817109ca" />
 
 ///////////////////////////////////////////////////////////////////////
 	Definir métodos
